@@ -1,2 +1,81 @@
 User-agent: bingbot
 Disallow: /player
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Allow: /
+
+User-agent: *
+ Disallow: 
+ 
+ User-agent: Googlebot
+ Disallow: 
+ User-agent: googlebot-image
+ Disallow: 
+ User-agent: googlebot-mobile
+ Disallow: 
+ User-agent: MSNBot
+ Disallow: 
+ User-agent: Slurp
+ Disallow: 
+ User-agent: yahoo-mmcrawler
+ Disallow: 
+ User-agent:  yahoo-blogs/v3.9
+ Disallow: 
+ User-agent: Teoma
+ Disallow: 
+ User-agent: Gigabot
+ Disallow: 
+ User-agent: Robozilla
+ Disallow: 
+ User-agent: Nutch
+ Disallow: 
+ User-agent: ia_archiver
+ Disallow: 
+ User-agent: baiduspider
+ Disallow: 
+ User-agent: naverbot
+ User-agent: yeti
+ Disallow: 
+ User-agent: psbot
+ Disallow: 
+ Disallow:
+
+User-agent: *
+Disallow: /search
+Allow: /
+User-agent: *
+Disallow: /tb/
+Disallow: /iv/
+Disallow: /blog.asp
+Disallow: /tag/
+Disallow: /tags/
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: GrapeshotCrawler
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: Mediapartners-Google
+
+User-agent: Google-Display-Ads-Bot
+
+Sitemap:https://rumusmusic.blogspot.com/sitemap.xml
+Sitemap:https://rumusmusic.blogspot.com/sitemap-pages.xml
+Sitemap:https://rumusmusic.blogspot.com/atom.xml
+Sitemap:https://rumusmusic.blogspot.com/sitemap-pages.xml
+Sitemap:https://rumusmusic.github.io/sitemap.xml
+Sitemap:https://rumusmusic.github.io/sitemap.txt
+Sitemap:https://rumusmusic.pages.dev/sitemap.xml
+Sitemap:https://rumusmusic.pages.dev/sitemap.txt
